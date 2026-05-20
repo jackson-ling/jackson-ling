@@ -89,7 +89,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jackson-ling&theme=tokyonight&background=0d1117&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9" width="70%" />
 </p>
 
-<details>
+<details open>
   <summary><b>贡献热力图</b></summary>
   <br/>
   <p align="center">
