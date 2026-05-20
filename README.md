@@ -6,12 +6,10 @@
   </picture>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=700&size=32&duration=2000&pause=1500&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=%F0%9F%91%8B+Hi%EF%BC%8C%E6%88%91%E6%98%AF+Jackson+%E5%87%8C%0ABackend+Developer+%7C+AI+Explorer" />
-</p>
+<h1 align="center">Hi👋, I am Jackson 凌</h1>
 
 <p align="center">
-  <i>软件工程专业大二在读 | Java 后端工程师 | AI Agent 探索者</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=500&size=18&duration=2000&pause=1000&color=8B949E&center=true&vCenter=true&repeat=true&width=500&height=40&lines=%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E5%A4%A7%E4%BA%8C%E5%9C%A8%E8%AF%BB+%7C+Java+%E5%90%8E%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%88+%7C+AI+Agent+%E6%8E%A2%E7%B4%A2%E8%80%85" />
 </p>
 
 <p align="center">
@@ -41,6 +39,8 @@
   <img src="https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=flat&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Nacos-0095D9?style=flat&logo=alibabacloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Sentinel-0095D9?style=flat&logo=alibabacloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
@@ -86,7 +86,7 @@
 </table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jackson-ling&theme=tokyonight&background=0d1117&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9" width="70%" />
+  <img src="https://streak-stats.demolab.com/?user=jackson-ling&theme=tokyonight&background=0d1117&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9" width="70%" />
 </p>
 
 <details open>
