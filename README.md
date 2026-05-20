@@ -6,20 +6,26 @@
   </picture>
 </p>
 
-<h2 align="center">Hi，我是 <b>Jackson 凌</b>，一名软件工程专业大二在读学生</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=700&size=32&duration=2000&pause=1500&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=%F0%9F%91%8B+Hi%EF%BC%8C%E6%88%91%E6%98%AF+Jackson+%E5%87%8C%0ABackend+Developer+%7C+AI+Explorer" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Jackson%20%E5%87%8C%0ABackend+Developer+%7C+AI+Explorer" />
+  <i>软件工程专业大二在读 | Java 后端工程师 | AI Agent 探索者</i>
+</p>
+
+<p align="center">
+  <a href="https://jacksonling.cn"><img src="https://img.shields.io/badge/%F0%9F%94%97-jacksonling.cn-58A6FF?style=flat&logoColor=white" /></a>
 </p>
 
 ---
 
 ## 关于我
 
-- 励志成为一名优秀的 **Java 后端工程师**
-- 当前正在探索 **AI Agent** 开发
-- 坚持技术写作，维护个人知识文档站 [jacksonling.cn](https://jacksonling.cn)
-- 信奉 *「学以致用，深入思考」*，通过项目实战驱动成长
+- 🔥 励志成为一名优秀的 **Java 后端工程师**
+- 🤖 当前正在探索 **AI Agent** 开发
+- ✍️ 坚持技术写作，维护个人知识文档站 [jacksonling.cn](https://jacksonling.cn)
+- 💡 信奉 *「学以致用，深入思考」*，通过项目实战驱动成长
 
 <br/>
 
