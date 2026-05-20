@@ -4,7 +4,7 @@
 
 ---
 
-## 关于我
+## About Me
 
 > 🔥 励志成为一名优秀的 **Java 后端工程师**
 >
@@ -16,7 +16,7 @@
 
 <br/>
 
-## 技术栈
+## Tech Stack
 
 **后端 · 框架与语言**
 
@@ -71,7 +71,7 @@
 
 <br/>
 
-## GitHub 数据
+## GitHub Stats
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/jackson-ling?style=for-the-badge&logo=github&color=58A6FF&label=Followers" />
@@ -85,7 +85,7 @@
 
 <br/>
 
-## 联系方式
+## Connect
 
 <table align="center">
   <tr>
