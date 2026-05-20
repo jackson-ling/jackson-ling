@@ -12,10 +12,6 @@
   <b>软件工程专业大二在读</b> · <b>Java 后端工程师</b> · <b>AI Agent 探索者</b>
 </p>
 
-<p align="center">
-  <a href="https://jacksonling.cn"><img src="https://img.shields.io/badge/%F0%9F%94%97-jacksonling.cn-58A6FF?style=flat&logoColor=white" /></a>
-</p>
-
 ---
 
 ## 关于我
