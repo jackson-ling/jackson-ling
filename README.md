@@ -6,6 +6,8 @@
   </picture>
 </p>
 
+<h2 align="center">Hi，我是 <b>Jackson 凌</b>，一名软件工程专业大二在读学生</h2>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Jackson%20%E5%87%8C%0ABackend+Developer+%7C+AI+Explorer" />
 </p>
@@ -13,8 +15,6 @@
 ---
 
 ## 关于我
-
-> Hi，我是 **Jackson 凌**，一名软件工程专业大二在读学生
 
 - 励志成为一名优秀的 **Java 后端工程师**
 - 当前正在探索 **AI Agent** 开发
