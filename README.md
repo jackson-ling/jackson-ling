@@ -1,16 +1,6 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=180&section=header" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:f0f6fc,50:dde4ec,100:0969da&height=180&section=header" />
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=180&section=header" />
-  </picture>
-</p>
-
 <h1 align="center">Hi👋, I am Jackson 凌</h1>
 
-<p align="center">
-  <b>软件工程专业大二在读</b> · <b>Java 后端工程师</b> · <b>AI Agent 探索者</b>
-</p>
+<h3 align="center">软件工程专业大二在读 · Java 后端工程师 · AI Agent 探索者</h3>
 
 ---
 
@@ -25,20 +15,30 @@
 
 ## 技术栈
 
-**后端**
+**后端 · 框架与语言**
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=flat&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/MyBatis-336791?style=flat&logo=apache&logoColor=white" />
   <img src="https://img.shields.io/badge/MyBatis--Plus-336791?style=flat&logo=apache&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=flat&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nacos-0095D9?style=flat&logo=alibabacloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sentinel-0095D9?style=flat&logo=alibabacloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white" />
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white" />
+</p>
+
+**后端 · 数据与中间件**
+
+<p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white" />
+</p>
+
+**后端 · 微服务与运维**
+
+<p>
+  <img src="https://img.shields.io/badge/Nacos-0095D9?style=flat&logo=alibabacloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sentinel-0095D9?style=flat&logo=alibabacloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white" />
@@ -70,16 +70,10 @@
 
 ## GitHub 数据
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=jackson-ling&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackson-ling&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=58a6ff&text_color=c9d1d9&langs_count=6" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jackson-ling&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackson-ling&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=58a6ff&text_color=c9d1d9&langs_count=6" width="40%" />
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=jackson-ling&theme=tokyonight&background=0d1117&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9" width="70%" />
@@ -98,9 +92,6 @@
 ## 联系方式
 
 <p align="center">
-  <a href="https://jacksonling.cn">
-    <img src="https://img.shields.io/badge/%E6%96%87%E6%A1%A3%E7%AB%99-1f6feb?style=for-the-badge&logo=vitepress&logoColor=white" />
-  </a>
   <a href="https://github.com/jackson-ling">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -111,4 +102,3 @@
     <img src="https://img.shields.io/badge/Gitee-C71D23?style=for-the-badge&logo=gitee&logoColor=white" />
   </a>
 </p>
-
