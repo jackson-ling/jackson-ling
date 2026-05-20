@@ -8,7 +8,7 @@
 
 - 🔥 励志成为一名优秀的 **Java 后端工程师**
 - 🤖 当前正在探索 **AI Agent** 开发
-- ✍️ 坚持技术写作，维护个人知识文档站 [jacksonling.cn](https://jacksonling.cn)
+- ✍️ 坚持技术写作，记录个人成长，维护个人知识文档站 [jacksonling.cn](https://jacksonling.cn)
 - 💡 信奉 *「学以致用，深入思考」*，通过项目实战驱动成长
 
 <br/>
@@ -71,34 +71,41 @@
 ## GitHub 数据
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jackson-ling&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackson-ling&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=58a6ff&text_color=c9d1d9&langs_count=6" width="40%" />
+  <img src="https://img.shields.io/github/followers/jackson-ling?style=flat&logo=github&color=58A6FF&label=Followers" />
+  <img src="https://img.shields.io/github/stars/jackson-ling/jackson-ling?style=flat&logo=github&color=58A6FF&label=Profile%20Stars" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=jackson-ling&theme=tokyonight&background=0d1117&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9" width="70%" />
 </p>
 
-<details open>
-  <summary><b>贡献热力图</b></summary>
-  <br/>
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jackson-ling&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true" width="95%" />
-  </p>
-</details>
-
 <br/>
 
 ## 联系方式
 
-<p align="center">
-  <a href="https://github.com/jackson-ling">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://blog.csdn.net/jackson0607">
-    <img src="https://img.shields.io/badge/CSDN-FC5531?style=for-the-badge&logo=csdn&logoColor=white" />
-  </a>
-  <a href="https://gitee.com/jacksonling">
-    <img src="https://img.shields.io/badge/Gitee-C71D23?style=for-the-badge&logo=gitee&logoColor=white" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://jacksonling.cn">
+        <img src="https://img.shields.io/badge/%F0%9F%8C%90%20%E6%96%87%E6%A1%A3%E7%AB%99-jacksonling.cn-1f6feb?style=for-the-badge&logo=vitepress&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/jackson-ling">
+        <img src="https://img.shields.io/badge/%F0%9F%92%BB%20GitHub-jackson--ling-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://blog.csdn.net/jackson0607">
+        <img src="https://img.shields.io/badge/%F0%9F%93%9D%20CSDN-jackson0607-FC5531?style=for-the-badge&logo=csdn&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://gitee.com/jacksonling">
+        <img src="https://img.shields.io/badge/%F0%9F%9A%80%20Gitee-jacksonling-C71D23?style=for-the-badge&logo=gitee&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
