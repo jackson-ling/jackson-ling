@@ -74,8 +74,8 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/jackson-ling?style=for-the-badge&logo=github&color=58A6FF&label=Followers" />
-  <img src="https://img.shields.io/github/following/jackson-ling?style=for-the-badge&logo=github&color=58A6FF&label=Following" />
+  <img src="https://img.shields.io/github/followers/jackson-ling?style=for-the-badge&logo=github&color=58A6FF&label=Followers" />&ensp;
+  <img src="https://img.shields.io/badge/Following-2-58A6FF?style=for-the-badge&logo=github&logoColor=white" />&ensp;
   <img src="https://img.shields.io/badge/Repos-12-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
