@@ -52,7 +52,6 @@
 ### GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=jackson-ling&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackson-ling&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=58a6ff&text_color=c9d1d9" width="40%" />
 
 <br/>
 
