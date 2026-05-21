@@ -59,13 +59,6 @@
 
 <br/>
 
-<!-- SNAKE ANIMATION -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/jackson-ling/jackson-ling@output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/jackson-ling/jackson-ling@output/github-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://cdn.jsdelivr.net/gh/jackson-ling/jackson-ling@output/github-snake.svg" />
-</picture>
-
 </div>
 
 <br/>
