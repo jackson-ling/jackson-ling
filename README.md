@@ -1,96 +1,86 @@
-<h1 align="center">Hi👋, I am Jackson 凌</h1>
+<div align="center">
 
-<h3 align="center">软件工程专业大二在读 · Java 后端工程师 · AI Agent 探索者</h3>
+<!-- HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Jackson%20%E5%87%8C&fontSize=45&fontColor=f0f6fc&animation=fadeIn&fontAlignY=38" width="100%" />
 
----
-
-## About Me
-
-> 🔥 励志成为一名优秀的 **Java 后端工程师**
->
-> 🤖 当前正在探索 **AI Agent** 开发
->
-> ✍️ 坚持技术写作，记录个人成长，维护个人知识文档站 [jacksonling.cn](https://jacksonling.cn)
->
-> 💡 信奉 *「学以致用，深入思考」*，通过项目实战驱动成长
+<!-- TYPING SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Java+Backend+Engineer+%7C+AI+Agent+Explorer;Building+with+Spring+Boot+%26+MyBatis-Plus;Always+learning%2C+always+shipping" alt="Typing SVG" />
 
 <br/>
 
-## Tech Stack
+<!-- SOCIAL BADGES -->
+<a href="https://jacksonling.cn"><img src="https://img.shields.io/badge/Blog-1f6feb?style=flat&logo=vitepress&logoColor=white" /></a>
+<a href="https://blog.csdn.net/jackson0607"><img src="https://img.shields.io/badge/CSDN-FC5531?style=flat&logo=csdn&logoColor=white" /></a>
+<a href="https://gitee.com/jacksonling"><img src="https://img.shields.io/badge/Gitee-C71D23?style=flat&logo=gitee&logoColor=white" /></a>
+<a href="https://github.com/jackson-ling"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
 
-<table>
-  <tr>
-    <td><strong>后端</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
-      <img src="https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=flat&logo=springboot&logoColor=white" />
-      <img src="https://img.shields.io/badge/MyBatis--Plus-336791?style=flat&logo=apache&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>数据 & 中间件</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
-      <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white" />
-      <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>运维</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>前端</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>AI</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Spring%20AI-6DB33F?style=flat&logo=springboot&logoColor=white" />
-      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" />
-      <img src="https://img.shields.io/badge/Claude-CC7B5C?style=flat&logo=anthropic&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-    </td>
-  </tr>
-</table>
+</div>
 
 <br/>
 
-## GitHub Stats
+<!-- ABOUT -->
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=jackson-ling&theme=tokyonight&background=0d1117&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=jackson-ling&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="49%" />
-</p>
+`🧑‍💻` 软件工程专业 · 励志成为优秀的 Java 后端工程师
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackson-ling&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=58a6ff&text_color=c9d1d9" width="40%" />
-</p>
+`🤖` 当前正在探索 AI Agent 开发
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jackson-ling/jackson-ling/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jackson-ling/jackson-ling/output/github-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jackson-ling/jackson-ling/output/github-snake.svg" />
-  </picture>
-</p>
+`✍️` 坚持技术写作，维护个人知识站 [jacksonling.cn](https://jacksonling.cn)
+
+`💡` 信奉「学以致用，深入思考」，通过项目实战驱动成长
+
+</div>
 
 <br/>
 
-## Connect
+<!-- TECH STACK - skill icons -->
+<div align="center">
 
-<p align="center">
-  <a href="https://jacksonling.cn"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20%E6%96%87%E6%A1%A3%E7%AB%99-jacksonling.cn-1f6feb?style=for-the-badge&logo=vitepress&logoColor=white" /></a>&ensp;
-  <a href="https://blog.csdn.net/jackson0607"><img src="https://img.shields.io/badge/%F0%9F%93%9D%20CSDN-jackson0607-FC5531?style=for-the-badge&logo=csdn&logoColor=white" /></a>&ensp;
-  <a href="https://gitee.com/jacksonling"><img src="https://img.shields.io/badge/%F0%9F%9A%80%20Gitee-jacksonling-C71D23?style=for-the-badge&logo=gitee&logoColor=white" /></a>
-</p>
+### Tech Stack
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,elasticsearch,rabbitmq,docker,linux,git,vue,ts,js,python&perline=7&theme=dark" />
+</a>
+
+</div>
+
+<br/>
+
+<!-- GITHUB STATS -->
+<div align="center">
+
+### GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=jackson-ling&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackson-ling&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=58a6ff&text_color=c9d1d9" width="40%" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=jackson-ling&theme=tokyonight&background=0d1117&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9" width="50%" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jackson-ling&bg_color=0d1117&color=58a6ff&line=1f6feb&point=f0f6fc&area=true&area_color=1f6feb&hide_border=true" width="90%" />
+
+<br/>
+
+<!-- SNAKE ANIMATION -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jackson-ling/jackson-ling/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jackson-ling/jackson-ling/output/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jackson-ling/jackson-ling/output/github-snake.svg" />
+</picture>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=jackson-ling&color=1f6feb&style=flat-square&label=PROFILE+VIEWS" />
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=120&section=footer" width="100%" />
+</div>
