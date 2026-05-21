@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Jackson%20%E5%87%8C&fontSize=45&fontColor=f0f6fc&animation=fadeIn&fontAlignY=38" width="100%" />
 
 <!-- TYPING SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Java+Backend+Engineer+%7C+AI+Agent+Explorer;Building+with+Spring+Boot+%26+MyBatis-Plus;Always+learning%2C+always+shipping" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Java+Backend+Engineer+%7C+AI+Agent+Explorer;Always+learning%2C+always+thinking" alt="Typing SVG" />
 
 <br/>
 
