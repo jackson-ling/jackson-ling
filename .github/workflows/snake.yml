@@ -1,0 +1,37 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate snake svg (dark)
+        uses: Platane/snk@v3
+        with:
+          github_user_name: jackson-ling
+          outputs: |
+            dist/github-snake-dark.svg?color_snake=purple&color_dots=#58a6ff,#1f6feb,#8b5cf6,#555555,#888888,#444444
+
+      - name: Generate snake svg (light)
+        uses: Platane/snk@v3
+        with:
+          github_user_name: jackson-ling
+          outputs: |
+            dist/github-snake.svg
+
+      - name: Deploy to output branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: dist
+          publish_branch: output
