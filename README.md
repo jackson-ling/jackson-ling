@@ -51,11 +51,7 @@
 
 ### GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=jackson-ling&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" width="49%" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=jackson-ling&theme=tokyonight&background=0d1117&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9" width="50%" />
+<img src="https://streak-stats.demolab.com/?user=jackson-ling&theme=tokyonight&background=0d1117&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9" width="90%" />
 
 <br/>
 
@@ -65,9 +61,9 @@
 
 <!-- SNAKE ANIMATION -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jackson-ling/jackson-ling/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jackson-ling/jackson-ling/output/github-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jackson-ling/jackson-ling/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/jackson-ling/jackson-ling@output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/jackson-ling/jackson-ling@output/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://cdn.jsdelivr.net/gh/jackson-ling/jackson-ling@output/github-snake.svg" />
 </picture>
 
 </div>
